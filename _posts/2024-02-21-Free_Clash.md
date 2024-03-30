@@ -6,8 +6,11 @@ tags:
   - ['Clash']
 description: 免费科学上网发布页面
 ---
-## 临时发布地址
+## 临时发布地
 ## <https://blog.kooker.jp/free-clash/>
+### 订阅
+### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash.yaml>
+### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash1.yaml>
 
 <p>Clash Windows中文版本站下载：<a href="{{ site.soft_url }}Clash.for.Windows.Setup.0.20.39.exe">Clash.for.Windows.Setup.0.20.39.exe</a></p>
 <p>Clash 2.5.3稳定版本站下载：<a href="{{ site.apps_url }}clash-2.5.3.apk">clash-2.5.3.apk</a></p>
