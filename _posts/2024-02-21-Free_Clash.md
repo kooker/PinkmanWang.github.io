@@ -7,11 +7,19 @@ tags:
 description: 免费科学上网发布页面
 ---
 ## 临时发布地
-## <https://blog.kooker.jp/free-clash/>
+## <del><https://blog.kooker.jp/free-clash/></del>
 ### 订阅
-### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash.yaml>
-### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash1.yaml>
-
+### <http://kookerjp.s312.xrea.com/clash.php>
+### <http://kookerjp.s312.xrea.com/clash1.php>
+### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash.php>
+### <https://ss1.xrea.com/kookerjp.s312.xrea.com/clash1.php>
+<ul>温馨提示：
+<li>本站提供的都是免费且公益的节点，稳定性与长时间连接速率无法与收费版的高速机场节点相提并论，不能奢望太多。
+<li>注意你自己的网络环境（本地连接当中的DNS，手动配置一下：114.114.114.114，8.8.8.8或是其它公共的DNS。）
+<li>如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。</ul>
+<ul>Clash.Meta
+<li>cClash.Meta：<https://github.com/chinachat/Clash.Meta/releases>
+<li>Clash verge rev releases：<https://github.com/clash-verge-rev/clash-verge-rev/releases/></ul>
 <p>Clash Windows中文版本站下载：<a href="{{ site.soft_url }}Clash.for.Windows.Setup.0.20.39.exe">Clash.for.Windows.Setup.0.20.39.exe</a></p>
 <p>Clash 2.5.3稳定版本站下载：<a href="{{ site.apps_url }}clash-2.5.3.apk">clash-2.5.3.apk</a></p>
 <p>Clash 2.5.12本站下载：<a href="{{ site.apps_url }}clash-2.5.12.apk">clash-2.5.12.apk</a></p>
