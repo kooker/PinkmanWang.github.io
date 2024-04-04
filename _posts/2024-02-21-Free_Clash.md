@@ -18,10 +18,8 @@ description: 免费科学上网发布页面
 <li>注意你自己的网络环境（本地连接当中的DNS，手动配置一下：114.114.114.114，8.8.8.8或是其它公共的DNS。）
 <li>如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 </ul>
-<ul>Clash.Meta
-<li>Clash.Meta： <https://github.com/MetaCubeX/mihomo/tree/Meta>
-<li>Clash verge rev releases： <https://github.com/clash-verge-rev/clash-verge-rev/releases>
-</ul>
+#### Clash.Meta： <https://github.com/MetaCubeX/mihomo/tree/Meta>
+#### Clash verge rev releases： <https://github.com/clash-verge-rev/clash-verge-rev/releases>
 <p>Clash Windows中文版本站下载：<a href="{{ site.soft_url }}Clash.for.Windows.Setup.0.20.39.exe">Clash.for.Windows.Setup.0.20.39.exe</a></p>
 <p>Clash 2.5.3稳定版本站下载：<a href="{{ site.apps_url }}clash-2.5.3.apk">clash-2.5.3.apk</a></p>
 <p>Clash 2.5.12本站下载：<a href="{{ site.apps_url }}clash-2.5.12.apk">clash-2.5.12.apk</a></p>
